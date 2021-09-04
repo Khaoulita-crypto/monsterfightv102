@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/monsterfightv102/static/css/main.bf16ae47.chunk.css",
+    "main.js": "/monsterfightv102/static/js/main.b600776b.chunk.js",
+    "main.js.map": "/monsterfightv102/static/js/main.b600776b.chunk.js.map",
+    "runtime-main.js": "/monsterfightv102/static/js/runtime-main.03d5a20c.js",
+    "runtime-main.js.map": "/monsterfightv102/static/js/runtime-main.03d5a20c.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/monsterfightv102/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ea96a54a.chunk.js": "/monsterfightv102/static/js/2.ea96a54a.chunk.js",
+    "static/js/2.ea96a54a.chunk.js.map": "/monsterfightv102/static/js/2.ea96a54a.chunk.js.map",
+    "static/js/3.444c32fa.chunk.js": "/monsterfightv102/static/js/3.444c32fa.chunk.js",
+    "static/js/3.444c32fa.chunk.js.map": "/monsterfightv102/static/js/3.444c32fa.chunk.js.map",
+    "index.html": "/monsterfightv102/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/monsterfightv102/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.bf16ae47.chunk.css.map": "/monsterfightv102/static/css/main.bf16ae47.chunk.css.map",
+    "static/js/2.ea96a54a.chunk.js.LICENSE.txt": "/monsterfightv102/static/js/2.ea96a54a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03d5a20c.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ea96a54a.chunk.js",
+    "static/css/main.bf16ae47.chunk.css",
+    "static/js/main.b600776b.chunk.js"
+  ]
+}
